@@ -1,0 +1,1 @@
+ /Users/mac/Documents/pets/.dart_tool/flutter_build/02574bf8ac166058c2d858d31b2fe7be/native_assets.yaml: 
